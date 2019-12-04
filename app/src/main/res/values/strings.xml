@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Grid Lock</string>
+    <string name="bottom_center"></string>
+    <string name="top_center"></string>
+    <string name="top_right"></string>
+    <string name="top_left"></string>
+    <string name="center"></string>
+    <string name="left"></string>
+    <string name="right"></string>
+    <string name="bottom_left"></string>
+    <string name="bottom_right"></string>
+    <string name="player1_win_str">Player 1 Wins:</string>
+    <string name="player2_win_str">Player 2 Wins:</string>
+    <string name="player_turn_x_str">X\'s Turn</string>
+    <string name="player_turn_o_str">O\'s Turn</string>
+    <string name="player1_win_count">0</string>
+    <string name="player2_win_count">0</string>
+    <string name="Background_Def">Background For GridLock</string>
+    <string name="title_activity_game_screen">GameScreen</string>
+    <string name="x_win">Player X Won!</string>
+    <string name="o_win">Player O Won!</string>
+    <string name="no_win">Draw!</string>
+    <string name="reset_button_str">Reset Board</string>
 </resources>
